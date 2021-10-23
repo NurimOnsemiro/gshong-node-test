@@ -1,1 +1,6 @@
 lib/
+.editorconfig
+.eslintrc.js
+.prettierignore
+.prettierrc
+nodemon.json
