@@ -1,0 +1,25 @@
+{
+  "name": "gshong-node-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NurimOnsemiro/gshong-node-test.git"
+  },
+  "keywords": [
+    "gshong"
+  ],
+  "author": "remocon33@naver.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NurimOnsemiro/gshong-node-test/issues"
+  },
+  "homepage": "https://github.com/NurimOnsemiro/gshong-node-test#readme",
+  "devDependencies": {
+    "@types/node": "^16.11.4"
+  }
+}
