@@ -8,14 +8,10 @@
             "type": "node",
             "request": "launch",
             "name": "프로그램 시작",
-            "skipFiles": [
-                "<node_internals>/**"
-            ],
-            "program": "${workspaceFolder}\\src\\app.ts",
+            "skipFiles": ["<node_internals>/**"],
+            "program": "${workspaceFolder}\\lib\\index.ts",
             "preLaunchTask": "tsc: build - tsconfig.json",
-            "outFiles": [
-                "${workspaceFolder}/**/*.js"
-            ]
+            "outFiles": ["${workspaceFolder}/**/*.js"]
         }
     ]
 }
